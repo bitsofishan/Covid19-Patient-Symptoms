@@ -1,3 +1,6 @@
+Check out the model deployed using the following dataset here:
+https://covid-19-risk-estimator.herokuapp.com/
+
 This dataset contains the symptoms which can be used to classify the risk of Covid-19 in a person. In the dataset
 For the Symptoms:
 0->Not present
@@ -10,3 +13,4 @@ For the risk Column:
 
 This data has not been verified by any medical professional and was built for learning purposes. For commercial use, please use this only if you get it verified by some medical professional.
 Stay Safe. Stay Inside
+
