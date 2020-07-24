@@ -1,5 +1,5 @@
 Check out the model deployed using the following dataset here:
-https://covid-19-risk-estimator.herokuapp.com/
+https://coronavirus-prediction.herokuapp.com/
 
 This dataset contains the symptoms which can be used to classify the risk of Covid-19 in a person. In the dataset
 For the Symptoms:
